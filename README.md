@@ -21,8 +21,19 @@ XGB with Relational Features. Unpublished. (This experiment was done just for fu
 Tirtharaj Dash, Ashwin Srinivasan, Ramprasad S. Joshi, A. Baskar:
 Discrete Stochastic Search and Its Application to Feature-Selection for Deep Relational Machines. ICANN (2) 2019: 29-45
 
-
-
 #### Note
 
 The first 3800 features of each dataset were used to roughly match the ILP2018. However, there is no such restriction if you take all features.
+
+#### Cite
+
+```
+@inproceedings{dash2019discrete,
+  title={Discrete Stochastic Search and Its Application to Feature-Selection for Deep Relational Machines},
+  author={Dash, Tirtharaj and Srinivasan, Ashwin and Joshi, Ramprasad S and Baskar, A},
+  booktitle={International Conference on Artificial Neural Networks},
+  pages={29--45},
+  year={2019},
+  organization={Springer}
+}
+```
